@@ -1,0 +1,80 @@
+[0.090s] Invoking command in '/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_teleop:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat -DCMAKE_INSTALL_PREFIX=/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat
+[0.136s] -- The C compiler identification is GNU 11.4.0
+[0.183s] -- The CXX compiler identification is GNU 11.4.0
+[0.189s] -- Detecting C compiler ABI info
+[0.248s] -- Detecting C compiler ABI info - done
+[0.254s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.255s] -- Detecting C compile features
+[0.255s] -- Detecting C compile features - done
+[0.258s] -- Detecting CXX compiler ABI info
+[0.331s] -- Detecting CXX compiler ABI info - done
+[0.338s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.338s] -- Detecting CXX compile features
+[0.339s] -- Detecting CXX compile features - done
+[0.342s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.507s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.603s] -- Looking for ignition-math6 -- found version 6.15.0
+[0.609s] -- Searching for dependencies of ignition-math6
+[0.612s] -- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.695s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.695s] -- Configured cppcheck include dirs: 
+[0.696s] -- Configured cppcheck exclude dirs and/or files: 
+[0.697s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.699s] -- Added test 'lint_cmake' to check CMake code style
+[0.700s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.707s] -- Added test 'uncrustify' to check C / C++ code style
+[0.707s] -- Configured uncrustify additional arguments: 
+[0.709s] -- Added test 'xmllint' to check XML markup files
+[0.710s] -- Configuring done
+[0.712s] -- Generating done
+[0.713s] -- Build files have been written to: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat
+[0.718s] Invoked command in '/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_teleop:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat -DCMAKE_INSTALL_PREFIX=/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat
+[0.719s] Invoking command in '/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_teleop:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat -- -j12 -l12
+[0.750s] Invoked command in '/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_teleop:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat -- -j12 -l12
+[0.776s] Invoking command in '/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_teleop:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat
+[0.783s] -- Install configuration: ""
+[0.784s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/ament_index/resource_index/package_run_dependencies/urdf_class_draizzat
+[0.784s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/ament_index/resource_index/parent_prefix_path/urdf_class_draizzat
+[0.784s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/environment/ament_prefix_path.sh
+[0.784s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/environment/ament_prefix_path.dsv
+[0.784s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/environment/path.sh
+[0.784s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/environment/path.dsv
+[0.784s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/local_setup.bash
+[0.784s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/local_setup.sh
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/local_setup.zsh
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/local_setup.dsv
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/package.dsv
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/ament_index/resource_index/packages/urdf_class_draizzat
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/cmake/urdf_class_draizzatConfig.cmake
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/cmake/urdf_class_draizzatConfig-version.cmake
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/package.xml
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch/rviz.gazebo.launch.py
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch/__pycache__
+[0.785s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch/__pycache__/display.launch.cpython-310.pyc
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch/display.launch.py
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/rviz
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/rviz/urdf.rviz
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/07-physics.urdf
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/02-multipleshapes.urdf
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/04-materials.urdf
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/01-myfirst.urdf
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/05-visual.urdf
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/03-origins.urdf
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/06-flexible.urdf
+[0.786s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/08-macroed.urdf.xacro
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/09-afiqah_humanmodel.xacro
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes/l_finger_tip_color.png
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes/l_finger_tip.dae
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes/l_finger_color.png
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes/l_finger.dae
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/materials.png
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/origins.png
+[0.787s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/visual.png
+[0.788s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/flexible.png
+[0.788s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/multipleshapes.png
+[0.788s] -- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/myfirst.png
+[0.790s] Invoked command in '/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_teleop:/home/aizzat2204/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat

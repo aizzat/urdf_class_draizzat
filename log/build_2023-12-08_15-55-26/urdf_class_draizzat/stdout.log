@@ -1,0 +1,74 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Looking for ignition-math6 -- found version 6.15.0
+-- Searching for dependencies of ignition-math6
+-- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat
+-- Install configuration: ""
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/ament_index/resource_index/package_run_dependencies/urdf_class_draizzat
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/ament_index/resource_index/parent_prefix_path/urdf_class_draizzat
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/environment/ament_prefix_path.sh
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/environment/ament_prefix_path.dsv
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/environment/path.sh
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/environment/path.dsv
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/local_setup.bash
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/local_setup.sh
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/local_setup.zsh
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/local_setup.dsv
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/package.dsv
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/ament_index/resource_index/packages/urdf_class_draizzat
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/cmake/urdf_class_draizzatConfig.cmake
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/cmake/urdf_class_draizzatConfig-version.cmake
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/package.xml
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch/rviz.gazebo.launch.py
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch/__pycache__
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch/__pycache__/display.launch.cpython-310.pyc
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/launch/display.launch.py
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/rviz
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/rviz/urdf.rviz
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/07-physics.urdf
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/02-multipleshapes.urdf
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/04-materials.urdf
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/01-myfirst.urdf
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/05-visual.urdf
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/03-origins.urdf
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/06-flexible.urdf
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/08-macroed.urdf.xacro
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/urdf/09-afiqah_humanmodel.xacro
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes/l_finger_tip_color.png
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes/l_finger_tip.dae
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes/l_finger_color.png
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/meshes/l_finger.dae
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/materials.png
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/origins.png
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/visual.png
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/flexible.png
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/multipleshapes.png
+-- Installing: /home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/install/urdf_class_draizzat/share/urdf_class_draizzat/images/myfirst.png

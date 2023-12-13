@@ -1,0 +1,9 @@
+/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat/CMakeFiles/uninstall.dir
+/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat/CMakeFiles/urdf_class_draizzat_uninstall.dir
+/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat/CMakeFiles/test.dir
+/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat/CMakeFiles/edit_cache.dir
+/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat/CMakeFiles/rebuild_cache.dir
+/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat/CMakeFiles/list_install_components.dir
+/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat/CMakeFiles/install.dir
+/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat/CMakeFiles/install/local.dir
+/home/aizzat2204/ros2_class_ws/src/urdf_class_draizzat/build/urdf_class_draizzat/CMakeFiles/install/strip.dir
